@@ -15,28 +15,28 @@ const questions = [
     {
         type: 'input',
         message: 'Enter Description:',
-        name: 'Description',
+        name: 'description',
     },
     {
         type: 'checkbox',
         message: 'List Table of Contents',
-        name: 'Table of Contents',
+        name: 'contents',
         choices: ['Installation Requirements', 'Usage', 'Licenses', 'Contributions', 'Tests', 'Questions'],
     },
     {
         type: 'input',
         message: 'List any installation requirements:',
-        name: 'Installation Requirements',
+        name: 'installation',
     },
     {
         type: 'input',
         message: 'List any contributions:',
-        name: 'Constributions',
+        name: 'constributions',
     },
     {
         type: 'input',
         message: 'Enter Github username:',
-        name: 'Github username',
+        name: 'github',
     },
     {
         type: 'input',
