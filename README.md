@@ -1,3 +1,8 @@
-# ReadMe-Generator
+# README Sample
+  #This is a test to see if this works or not.  If it does, I'm going to be so happy.
 
-* This project will require me to create a README file using Node on the server end.
+  #Installation Requirements,Usage,Licenses,Contributions,Tests,Questions
+  #none
+  #self
+  #WVPrimrose
+  #kzbindy@hotmail.com

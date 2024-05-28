@@ -13,7 +13,7 @@ const questions = [
         name: 'title',
     },
     {
-        type: 'input',
+        type: 'editor',
         message: 'Enter Description:',
         name: 'description',
     },
